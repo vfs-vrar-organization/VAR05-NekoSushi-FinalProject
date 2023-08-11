@@ -1,7 +1,7 @@
 <h1 align="center">🍣 Neko Sushi 🍣</h1>
 
 <p align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/2e02486b-8733-45a8-aff2-d225d003c7ed">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/MainImage.png">
 <p align="center">
 
 ## <p align="center">Summary<p align="center">
@@ -45,19 +45,19 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/920f6480-911b-4155-baaa-8c38158bbea2" alt="Image 1" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/GameIdentity%2BMantra.jpg" alt="Image 1" width="320" height="180">
   <br>
   "Game Identity + Mantra"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/0d9afcb3-7772-46ba-a557-2979fc349435)" alt="Image 2" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/DesignPillars.jpg)" alt="Image 2" width="320" height="180">
   <br>
   "Design Pillars"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/203bc107-7623-405c-adc8-028ad24fd31b)" alt="Image 3" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/GameStory%2BMechanics.jpg)" alt="Image 3" width="320" height="180">
   <br>
   "Game Story + Mechanics"
 </div>
@@ -69,31 +69,31 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/7ec7f03b-0bc5-4f36-b905-f36ae4a68bb1" alt="Image 1" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BHighLevel.jpg" alt="Image 1" width="320" height="180">
   <br>
   "User Flow - High Level"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/803a4e91-6e8d-4be2-b6d0-86bbd5a9b4ca)" alt="Image 2" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BIntroScene.jpg)" alt="Image 2" width="320" height="180">
   <br>
   "User Flow - Intro Scene"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/4251534d-7ecb-4f5b-b54b-d42724d75dfd)" alt="Image 3" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BExteriorIntroScene.jpg)" alt="Image 3" width="320" height="180">
   <br>
   "User Flow - Exterior Intro Scene"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/47ad65ac-83ca-4101-87c6-5415d3133afb)" alt="Image 4" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BInteriorKitchenScenes.jpg)" alt="Image 4" width="320" height="180">
   <br>
   "User Flow - Interior Kitchen Scenes"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/d4c7d228-642b-428c-ba67-38674d9b1e46)" alt="Image 5" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow-FinalScene.jpg)" alt="Image 5" width="320" height="180">
   <br>
   "User Flow - Final Scene"
 </div>
@@ -105,25 +105,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
   
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/ec8f5bd0-cfa3-4962-b97e-20260847a0cb" alt="Image 1" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/ProjectTimeline%2BMilestones.jpg" alt="Image 1" width="320" height="180">
   <br>
   "Project Timeline + Milestones"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/05a83d43-c2a2-4d1a-9b99-f19eed76298d)" alt="Image 2" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/CApacityPlanning.jpg)" alt="Image 2" width="320" height="180">
   <br>
   "Capacity Planning"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/18fa6407-fde2-4c91-8912-8bc8c32850db)" alt="Image 3" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Risks%2BMitigationPlanContinued.jpg)" alt="Image 3" width="320" height="180">
   <br>
   "Risks + Mitigation Plan"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/df748421-0e82-48c6-a361-db8cdd652091)" alt="Image 4" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Risks%2BMitigationPlan.jpg)" alt="Image 4" width="320" height="180">
   <br>
   "Risks + Mitigation Plan Continued"
 </div>
@@ -135,25 +135,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/e8d06b1a-7d39-466f-bb23-cc838021e954" alt="Image 1" width="480" height="640">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NekoConcept.jpg" alt="Image 1" width="480" height="640">
   <br>
   "Neko Concept"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/6be49eaf-96e7-42d0-a03b-6bb26cbff890)" alt="Image 2" width="480" height="640">>
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KonroConcept.jpg)" alt="Image 2" width="480" height="640">>
   <br>
   "Konro Concept"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/9eefcdd8-7ac7-4f53-957d-c9a86691575c)" alt="Image 3" width="480" height="640">>
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/StoryBoard.jpg)" alt="Image 3" width="480" height="640">>
   <br>
   "Storyboard"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/e87e10b9-0fa0-4291-a2bb-95ea9258534e)" alt="Image 4" width="480" height="640">>
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KnifeConcept.jpg)" alt="Image 4" width="480" height="640">>
   <br>
   "Knife Concept"
 </div>
@@ -166,13 +166,13 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/5e9e6fcd-343d-4bdf-ae9d-817714405dbb)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/SlicingInteraction-Prototype.gif)" alt="Image 4" width="640" height="360">
   <br>
   "Slicing Interaction - Prototype"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/3426aa56-ad13-41ec-974e-1a46e2c6c3f3)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriInteraction-Prototype.gif)" alt="Image 4" width="640" height="360">
   <br>
   "Nigiri Interaction - Prototype"
 </div>
@@ -184,25 +184,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/50bc20db-4e16-4a49-900b-75888ce7fe87)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Konro-Model.png)" alt="Image 4" width="640" height="360">
   <br>
   "Konro - Model"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/6764aeca-53ba-4dea-a7f9-ec574f43b79c)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Neko-Model.png)" alt="Image 4" width="640" height="360">
   <br>
   "Neko - Model"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/d56cc58d-2946-4db4-ba3a-8db8670a3245)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KnifesModel.png)" alt="Image 4" width="640" height="360">
   <br>
   "Knife Selection - Model"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/4621a669-726f-45ec-87f0-3a233e39453e)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FishFillet-Model.png)" alt="Image 4" width="640" height="360">
   <br>
   "Fish Fillet - Model"
 </div>
@@ -214,25 +214,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/90d40076-f95e-4812-9a7a-009a3521f2b1)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/ExteriorEnvironment-Prototype.png)" alt="Image 4" width="640" height="360">
   <br>
   "Exterior Environment - Prototype"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/b743396c-d7d4-4d6f-becc-66e423428e62)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FirstRestaurant-Prototype.png)" alt="Image 4" width="640" height="360">
   <br>
   "First Restaurant - Prototype"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/7e45ceb4-f6f8-47a1-8c6b-d398088b28cc)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RemodeledRestaurant-Prototype1.png)" alt="Image 4" width="640" height="360">
   <br>
   "Remodeled Restaurant - Prototype 1"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/f6d1030a-db72-40ca-af8e-b57aeff977d8)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RemodeledRestaurant-Prototype2.png)" alt="Image 4" width="640" height="360">
   <br>
   "Remodeled Restaurant - Prototype 2"
 </div>
@@ -244,25 +244,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img width="256" alt="Nakiri_FullIcon" src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/47f60da7-f522-4c44-860b-37951caeba85">
+  <img width="256" alt="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/CustomIcon.png">
   <br>
   "Custom Item Icons Made in Photoshop"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/9746b4b9-4c69-448f-bc6a-23d720f6666b)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/ItemUIPanel.png)" alt="Image 4" width="640" height="360">
   <br>
   "Item UI Panel - Displays on Hand Hover"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/5b61587d-5323-4d3c-b571-a1255213689c)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/DialogueUIPanel.gif)" alt="Image 4" width="640" height="360">
   <br>
   "Dialogue UI Panel"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/ff67b96b-f56d-4424-9379-2d4ef434520a)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/VideoInstructionUIPanel.gif)" alt="Image 4" width="640" height="360">
   <br>
   "Video Instruction UI Panel"
 </div>
@@ -276,7 +276,7 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/b5694fa6-9970-41df-a095-18d6551d20fa)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/AutoHand.gif)" alt="Image 4" width="640" height="360">
   <br>
   "AutoHand - Hand Tracking Demo"
 </div>
@@ -285,25 +285,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 * 🎮 **Gameplay Development**
 
     <p align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/2bc23aff-e384-4f5b-b24a-6b26bf9782d9)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/IntroScene.gif)" alt="Image 4" width="640" height="360">
   <br>
   "Intro Scene"
     </p>
 <br> <!-- Add a line break here -->
     <p align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/23ad24de-79dc-4af0-b5aa-1715fca8af0e)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/SakudoriStage.gif)" alt="Image 4" width="640" height="360">
   <br>
   "Sakudori Stage"
     </p>
 <br> <!-- Add a line break here -->
     <p align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/1bdddc29-b103-4156-83eb-c6ee37223af9))" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriSlicingStage.gif))" alt="Image 4" width="640" height="360">
   <br>
   "Nigiri Slicing Stage"
     </p>
 <br> <!-- Add a line break here -->
     <p align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/8306a9f2-0747-4b62-9c40-5671410d1a30)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriFormingStage.gif)" alt="Image 4" width="640" height="360">
   <br>
   "Nigiri Forming Stage"
     </p>
@@ -316,13 +316,13 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/eaece6cb-4e5b-4e0d-b905-41b75e106ce5" alt="Image 4" width="360" height="640">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserTesting1.gif" alt="Image 4" width="360" height="640">
   <br>
   "User Testing 1 - Demo Loop"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/11a05a36-1825-48a6-9d30-b1ce38ee47b5)" alt="Image 4" width="360" height="640">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserTesting2.gif)" alt="Image 4" width="360" height="640">
   <br>
   "User Testing 2 - Demo Loop"
 </div>
@@ -335,7 +335,7 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <p align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/827d5724-e47e-49c3-a586-0acdf772984b" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FinalStage-Ending.gif" alt="Image 4" width="640" height="360">
   <br>
   "Final Stage - Ending"
 </p>
@@ -347,7 +347,7 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <p align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/07f0cb8d-f57a-4741-9671-e0c056d02705" alt="Image 5" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UnityStats.png" alt="Image 5" width="640" height="360">
   <br>
   "Unity Stats Screen After Optimizations"
 </p>
@@ -374,7 +374,7 @@ Embracing a modular approach from the project's inception, I divided the develop
   - **Shaders | Setting the Tone:**
 Building custom shaders to define the project's visual style was a pivotal moment. Creating a stylized water shader and cel shader akin to popular games like the new Zelda titles set the tone for Neko Sushi. As the project evolved, the consistent visual style emerged as one of the defining aspects of the project, leaving a lasting impact on both the gameplay and the user experience.  
     <p align="center">
-      <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/2f6d954a-43a6-440b-8410-2e414633c011" alt="Shader Development" width="640" height="360">
+      <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/ShaderDevelopment.gif" alt="Shader Development" width="640" height="360">
       <br>
       "Shader Development"
     </p>
@@ -383,7 +383,7 @@ Building custom shaders to define the project's visual style was a pivotal momen
 Building out one of the core mechanics of the game, slicing, marked a significant milestone in the development process. I recognized the importance of this mechanic in validating the project's potential and keeping the motivation high. Even during the early prototype stages, the slicing mechanic proved to be incredibly successful and engaging, reinforcing my belief in the project's direction.
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/aca01262-788b-4aa1-94e7-afd3f6fa7f72" alt="slice" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FirstSlicePrototype.gif" alt="slice" width="640" height="360">
   <br>
   "First Slice Prototype"
 </div>
@@ -393,7 +393,7 @@ Building out one of the core mechanics of the game, slicing, marked a significan
 Proceeding to model the two main characters featured in the game was a significant step in the project's development. Recognizing their crucial role in driving the story, I dedicated a good amount of attention to their design. As someone with a personal interest in 3D modeling and design, this phase allowed me to take a creative break from coding in Unity. The process was highly enjoyable, and I was pleased with the final results. The characters received positive feedback from friends and peers, validating their importance in the game and how they integrated into the overall experience.
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/81783aff-d05e-4e1e-b637-fdf52c32cab6" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KonroCharacter.gif" alt="Image 4" width="640" height="360">
   <br>
   "Konro Character"
 </div>
@@ -403,7 +403,7 @@ After completing the character modeling, I delved into the realm of rigging and 
 Once I had successfully rigged the characters and created a selection of animations, I introduced a clever material swapping animation technique to animate the eyes and mouths, achieving an anime-style look. This animation style seamlessly blended with the game's overall visuals, resulting in an engaging and cohesive experience. I felt a great sense of accomplishment with the final outcome, and the positive feedback reinforced my decision to include animations in the project.
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/e12c858d-b722-49d8-993b-01279a87c041" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NekoAnimations.gif" alt="Image 4" width="640" height="360">
   <br>
   "Neko Animations"
 </div>
@@ -415,13 +415,13 @@ Once I had successfully rigged the characters and created a selection of animati
 After testing the game with peers at the midway point, I realized that the slicing, although functional, needed some work to truly have that satisfying feeling. I reworked it so that as players move the knife downwards along a predefined angle threshold, it detects and interacts with sliceable objects. The script intelligently switches the knife's layer based on the slicing action, ensuring seamless transitions between slicing and normal behavior. When the knife successfully collides with a sliceable object, it splits the object into two separate parts with realistic physics interactions. These newly sliced objects go through a routine that sets them up with all the necessary components enabling them to interact naturally with the game environment. The script incorporates a cooldown mechanism, preventing players from performing consecutive slices too rapidly.
 
     <p align="center">
-      <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/cbce63a5-8da0-4b35-ae58-4336db7060a2" alt="Script" width="640" height="360">
+      <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RefinedSlice-Scrpt.png" alt="Script" width="640" height="360">
       <br>
       "Refined Slice - Script"
     </p>
   
     <p align="center">
-      <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/6e573d76-c121-4e50-a21e-2bf1df5997c4" alt="Image 4" width="640" height="360">
+      <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RefinedSlice-KnifeSetup.png" alt="Image 4" width="640" height="360">
       <br>
       "Refined Slice - Knife Setup"
     </p>
@@ -430,14 +430,14 @@ After testing the game with peers at the midway point, I realized that the slici
 Introducing the new restaurant design was a decision aimed at creating a more natural integration with the exterior environment. Early versions of the interior felt somewhat closed off, limiting the player's ability to enjoy the outside surroundings. Despite my initial attachment to the previous design, I recognized the value of enhancing the overall experience by making this change.
 Incorporating the new restaurant design proved to be time-consuming, but it was undoubtedly worthwhile. The updated layout now significantly contributes to the immersive experience for players. The blend between the interior and exterior environments adds depth to the virtual world, creating a more captivating journey for users.
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/b743396c-d7d4-4d6f-becc-66e423428e62" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FirstRestaurant-Prototype.png" alt="Image 4" width="640" height="360">
   <br>
   "First Restaurant - Prototype"
 </div>
 <br> <!-- Add a line break here -->
 
 <div align="center">
-  <img src="https://github.com/NickDutka/NekoSushi_URP/assets/104876986/f6d1030a-db72-40ca-af8e-b57aeff977d8" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RemodeledRestaurant-Prototype2.png" alt="Image 4" width="640" height="360">
   <br>
   "Remodeled Restaurant - Prototype 2"
 </div>
