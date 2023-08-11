@@ -51,13 +51,13 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/DesignPillars.jpg)" alt="Image 2" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/DesignPillars.jpg" alt="Image 2" width="320" height="180">
   <br>
   "Design Pillars"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/GameStory%2BMechanics.jpg)" alt="Image 3" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/GameStory%2BMechanics.jpg" alt="Image 3" width="320" height="180">
   <br>
   "Game Story + Mechanics"
 </div>
@@ -75,25 +75,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BIntroScene.jpg)" alt="Image 2" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BIntroScene.jpg" alt="Image 2" width="320" height="180">
   <br>
   "User Flow - Intro Scene"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BExteriorIntroScene.jpg)" alt="Image 3" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BExteriorIntroScene.jpg" alt="Image 3" width="320" height="180">
   <br>
   "User Flow - Exterior Intro Scene"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BInteriorKitchenScenes.jpg)" alt="Image 4" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow%2BInteriorKitchenScenes.jpg" alt="Image 4" width="320" height="180">
   <br>
   "User Flow - Interior Kitchen Scenes"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow-FinalScene.jpg)" alt="Image 5" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserFlow-FinalScene.jpg" alt="Image 5" width="320" height="180">
   <br>
   "User Flow - Final Scene"
 </div>
@@ -111,19 +111,19 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/CApacityPlanning.jpg)" alt="Image 2" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/CApacityPlanning.jpg" alt="Image 2" width="320" height="180">
   <br>
   "Capacity Planning"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Risks%2BMitigationPlanContinued.jpg)" alt="Image 3" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Risks%2BMitigationPlanContinued.jpg" alt="Image 3" width="320" height="180">
   <br>
   "Risks + Mitigation Plan"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Risks%2BMitigationPlan.jpg)" alt="Image 4" width="320" height="180">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Risks%2BMitigationPlan.jpg" alt="Image 4" width="320" height="180">
   <br>
   "Risks + Mitigation Plan Continued"
 </div>
@@ -141,19 +141,19 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KonroConcept.jpg)" alt="Image 2" width="480" height="640">>
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KonroConcept.jpg" alt="Image 2" width="480" height="640">>
   <br>
   "Konro Concept"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/StoryBoard.jpg)" alt="Image 3" width="480" height="640">>
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/StoryBoard.jpg" alt="Image 3" width="480" height="640">>
   <br>
   "Storyboard"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KnifeConcept.jpg)" alt="Image 4" width="480" height="640">>
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KnifeConcept.jpg" alt="Image 4" width="480" height="640">>
   <br>
   "Knife Concept"
 </div>
@@ -166,13 +166,13 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/SlicingInteraction-Prototype.gif)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/SlicingInteraction-Prototype.gif" alt="Image 4" width="640" height="360">
   <br>
   "Slicing Interaction - Prototype"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriInteraction-Prototype.gif)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriInteraction-Prototype.gif" alt="Image 4" width="640" height="360">
   <br>
   "Nigiri Interaction - Prototype"
 </div>
@@ -184,25 +184,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Konro-Model.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Konro-Model.png" alt="Image 4" width="640" height="360">
   <br>
   "Konro - Model"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Neko-Model.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/Neko-Model.png" alt="Image 4" width="640" height="360">
   <br>
   "Neko - Model"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KnifesModel.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/KnifesModel.png" alt="Image 4" width="640" height="360">
   <br>
   "Knife Selection - Model"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FishFillet-Model.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FishFillet-Model.png" alt="Image 4" width="640" height="360">
   <br>
   "Fish Fillet - Model"
 </div>
@@ -214,25 +214,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/ExteriorEnvironment-Prototype.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/ExteriorEnvironment-Prototype.png" alt="Image 4" width="640" height="360">
   <br>
   "Exterior Environment - Prototype"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FirstRestaurant-Prototype.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/FirstRestaurant-Prototype.png" alt="Image 4" width="640" height="360">
   <br>
   "First Restaurant - Prototype"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RemodeledRestaurant-Prototype1.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RemodeledRestaurant-Prototype1.png" alt="Image 4" width="640" height="360">
   <br>
   "Remodeled Restaurant - Prototype 1"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RemodeledRestaurant-Prototype2.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/RemodeledRestaurant-Prototype2.png" alt="Image 4" width="640" height="360">
   <br>
   "Remodeled Restaurant - Prototype 2"
 </div>
@@ -250,19 +250,19 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/ItemUIPanel.png)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/ItemUIPanel.png" alt="Image 4" width="640" height="360">
   <br>
   "Item UI Panel - Displays on Hand Hover"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/DialogueUIPanel.gif)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/DialogueUIPanel.gif" alt="Image 4" width="640" height="360">
   <br>
   "Dialogue UI Panel"
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/VideoInstructionUIPanel.gif)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/VideoInstructionUIPanel.gif" alt="Image 4" width="640" height="360">
   <br>
   "Video Instruction UI Panel"
 </div>
@@ -276,7 +276,7 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/AutoHand.gif)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/AutoHand.gif" alt="Image 4" width="640" height="360">
   <br>
   "AutoHand - Hand Tracking Demo"
 </div>
@@ -285,25 +285,25 @@ The aim of this VR experience is to provide users with an engaging and entertain
 * 🎮 **Gameplay Development**
 
     <p align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/IntroScene.gif)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/IntroScene.gif" alt="Image 4" width="640" height="360">
   <br>
   "Intro Scene"
     </p>
 <br> <!-- Add a line break here -->
     <p align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/SakudoriStage.gif)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/SakudoriStage.gif" alt="Image 4" width="640" height="360">
   <br>
   "Sakudori Stage"
     </p>
 <br> <!-- Add a line break here -->
     <p align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriSlicingStage.gif))" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriSlicingStage.gif" alt="Image 4" width="640" height="360">
   <br>
   "Nigiri Slicing Stage"
     </p>
 <br> <!-- Add a line break here -->
     <p align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriFormingStage.gif)" alt="Image 4" width="640" height="360">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/NigiriFormingStage.gif" alt="Image 4" width="640" height="360">
   <br>
   "Nigiri Forming Stage"
     </p>
@@ -322,7 +322,7 @@ The aim of this VR experience is to provide users with an engaging and entertain
 </div>
 <br> <!-- Add a line break here -->
 <div align="center">
-  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserTesting2.gif)" alt="Image 4" width="360" height="640">
+  <img src="https://github.com/VFS-VRAR/VAR05-NekoSushi-FinalProject/blob/main/Images%20and%20GIFs/UserTesting2.gif" alt="Image 4" width="360" height="640">
   <br>
   "User Testing 2 - Demo Loop"
 </div>
